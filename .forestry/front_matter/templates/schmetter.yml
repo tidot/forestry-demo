@@ -1,0 +1,18 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  default: Dibadihuba Schnickediba Schibadubedapp
+- type: number
+- type: select
+  config:
+    source:
+      type: datafiles
+  label: das
+  name: das
+  description: suche
+- type: list
+  name: liste
+  label: Liste
+  description: ansicht
